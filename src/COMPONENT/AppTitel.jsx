@@ -1,4 +1,4 @@
-
+import '../styles/navbar.scss';
 export default function AppTitel(props){
 
    const{
@@ -7,9 +7,9 @@ export default function AppTitel(props){
    } =props;
 
    return(
-        <div>
-            <h1>{title}</h1>
-            <p>{subtitle}</p>
+        <div className='app-title'>
+            <h1 className='title'>{title}</h1>
+            <p className="subtitle">{subtitle}</p>
         </div>
    )
 };

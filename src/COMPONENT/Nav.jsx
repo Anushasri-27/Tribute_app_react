@@ -1,4 +1,6 @@
+import '../styles/navbar.scss';
 import {Link} from 'react-router-dom';
+
 
 const Links =[
 {
@@ -16,12 +18,12 @@ const Links =[
 function Nav(){
 return(
    <div>
-       <ul>
+       <ul >
           {
 
               Links.map((item) => (
 
-                 <li key={item.to}> <Link to={item.to}> {item.text} </Link></li>
+                 <li className='nav-list' key={item.to}> <Link to={item.to}> {item.text} </Link></li>
 
 
               )
