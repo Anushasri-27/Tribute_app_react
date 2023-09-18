@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tribute_app_react/static/css/main.0f4d3034.css",
+    "main.js": "/Tribute_app_react/static/js/main.8b184b23.js",
+    "static/js/787.5373ea6b.chunk.js": "/Tribute_app_react/static/js/787.5373ea6b.chunk.js",
+    "index.html": "/Tribute_app_react/index.html",
+    "main.0f4d3034.css.map": "/Tribute_app_react/static/css/main.0f4d3034.css.map",
+    "main.8b184b23.js.map": "/Tribute_app_react/static/js/main.8b184b23.js.map",
+    "787.5373ea6b.chunk.js.map": "/Tribute_app_react/static/js/787.5373ea6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f4d3034.css",
+    "static/js/main.8b184b23.js"
+  ]
+}
